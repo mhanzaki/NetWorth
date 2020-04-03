@@ -2,3 +2,4 @@ matplotlib
 django
 gunicorn
 django-heroku
+whitenoise
