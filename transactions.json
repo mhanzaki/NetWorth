@@ -1,0 +1,2336 @@
+[
+        {
+            "createdAt": "2020-03-16T18:30:59.575Z",
+            "amount": 0.01,
+            "currency": "BTC",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-03-16T18:23:26.696Z",
+            "amount": 5.21,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-03-16T18:20:00.253Z",
+            "amount": 5.19,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-03-16T16:17:10.951Z",
+            "amount": 5.19,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-03-01T08:09:31.970Z",
+            "amount": 1,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-02-27T20:43:55.676Z",
+            "amount": 1,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-02-26T17:11:26.953Z",
+            "amount": 999,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2020-02-20T03:06:57.832Z",
+            "amount": 18,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2020-02-20T03:06:57.742Z",
+            "amount": 0.00146125,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 0.00146125
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 18
+            }
+        },
+        {
+            "createdAt": "2020-02-07T03:07:52.330Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00038096
+            }
+        },
+        {
+            "createdAt": "2020-02-07T02:58:24.235Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00038128
+            }
+        },
+        {
+            "createdAt": "2020-02-07T02:57:45.790Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2020-02-06T19:41:13.729Z",
+            "amount": 0.001,
+            "currency": "BTC",
+            "type": "external account",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-02-05T18:12:35.277Z",
+            "amount": 1,
+            "currency": "ETH",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "ETH",
+                "amount": 1
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 259
+            }
+        },
+        {
+            "createdAt": "2020-02-05T16:44:27.835Z",
+            "amount": 6,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-02-05T16:37:52.675Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-02-05T11:53:35.095Z",
+            "amount": 0.3,
+            "currency": "ETH",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "ETH",
+                "amount": 0.3
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 75.6
+            }
+        },
+        {
+            "createdAt": "2020-02-05T00:32:07.449Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2020-02-04T21:01:07.261Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2020-02-04T19:26:52.041Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2020-01-31T18:36:43.459Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00040243
+            }
+        },
+        {
+            "createdAt": "2020-01-31T17:57:43.953Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.0004035
+            }
+        },
+        {
+            "createdAt": "2020-01-29T17:54:51.789Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-29T17:47:32.773Z",
+            "amount": 2,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-29T17:15:02.789Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-24T16:24:10.979Z",
+            "amount": 1,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-16T18:51:27.778Z",
+            "amount": 11,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-16T18:45:14.477Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-16T18:44:34.022Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T21:29:51.924Z",
+            "amount": 0.04,
+            "currency": "ETH",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T21:28:56.678Z",
+            "amount": 0.04,
+            "currency": "BTC",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T19:52:43.208Z",
+            "amount": 0.05,
+            "currency": "BTC",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T19:43:40.615Z",
+            "amount": 150,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T19:43:39.980Z",
+            "amount": 150,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T19:43:39.324Z",
+            "amount": 150,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T19:43:38.585Z",
+            "amount": 150,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T19:43:37.750Z",
+            "amount": 150,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T19:43:36.591Z",
+            "amount": 150,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T18:25:17.261Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T18:25:12.165Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:19:25.746Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:19:25.113Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:19:24.486Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:19:23.835Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:19:23.184Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:19:22.563Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:19:21.917Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:19:21.175Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:19:20.433Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:19:19.794Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:19:18.920Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:19:18.169Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:19:17.101Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:19:16.151Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:19:14.140Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:18:35.396Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:18:34.336Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:18:29.796Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:18:28.622Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:18:27.144Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:18:23.932Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-14T15:18:21.413Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-13T23:44:55.198Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-13T21:59:37.503Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-13T21:44:11.811Z",
+            "amount": 5.42,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-13T21:39:49.419Z",
+            "amount": 5.42,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-09T23:29:50.221Z",
+            "amount": 10,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-09T23:14:24.522Z",
+            "amount": 10,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-09T23:03:49.829Z",
+            "amount": 10,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-09T22:51:52.326Z",
+            "amount": 10,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-09T15:34:53.946Z",
+            "amount": 1,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-09T15:26:35.354Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00047299
+            }
+        },
+        {
+            "createdAt": "2020-01-09T15:22:15.341Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2020-01-09T15:21:05.997Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-09T15:20:33.204Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00047263
+            }
+        },
+        {
+            "createdAt": "2020-01-09T15:19:21.436Z",
+            "amount": 0.006,
+            "currency": "BTC",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2020-01-08T20:11:20.452Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00046864
+            }
+        },
+        {
+            "createdAt": "2020-01-08T03:42:35.291Z",
+            "amount": 10,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 10
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00089486
+            }
+        },
+        {
+            "createdAt": "2020-01-08T03:41:35.298Z",
+            "amount": 0.01,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 0.01
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 107.07
+            }
+        },
+        {
+            "createdAt": "2020-01-08T03:34:39.732Z",
+            "amount": 0.02,
+            "currency": "BTC",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2020-01-07T21:23:52.261Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.0004584
+            }
+        },
+        {
+            "createdAt": "2020-01-07T21:23:30.483Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.0004581
+            }
+        },
+        {
+            "createdAt": "2020-01-07T21:22:23.715Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2020-01-07T20:45:28.152Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2020-01-07T20:25:33.925Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00046161
+            }
+        },
+        {
+            "createdAt": "2020-01-07T20:24:30.893Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00046143
+            }
+        },
+        {
+            "createdAt": "2020-01-07T19:14:21.591Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00046267
+            }
+        },
+        {
+            "createdAt": "2020-01-07T17:04:09.199Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2020-01-02T16:26:25.210Z",
+            "amount": 3.33,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-27T23:33:09.334Z",
+            "amount": 0.00001,
+            "currency": "BTC",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-12-27T23:24:17.468Z",
+            "amount": 0.001,
+            "currency": "BTC",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-27T23:23:44.223Z",
+            "amount": 0.001,
+            "currency": "BTC",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-23T22:58:34.536Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-23T22:56:30.935Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-23T22:54:30.693Z",
+            "amount": 1,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-23T22:54:03.944Z",
+            "amount": 0.001,
+            "currency": "BTC",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-18T16:59:18.178Z",
+            "amount": 2,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-18T16:59:07.465Z",
+            "amount": 6,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-06T21:00:38.218Z",
+            "amount": 3.21,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-06T20:59:21.623Z",
+            "amount": 3.21,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-06T20:58:21.849Z",
+            "amount": 3,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-12-06T14:59:31.855Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-12-05T22:38:59.532Z",
+            "amount": 0.01,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-05T22:38:42.226Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-05T22:37:25.424Z",
+            "amount": 0.01,
+            "currency": "BTC",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-05T22:36:14.739Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-05T22:32:28.726Z",
+            "amount": 0.01,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-12-05T17:20:25.989Z",
+            "amount": 0.01,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-12-05T16:37:15.209Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-05T16:30:41.172Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-05T16:28:07.299Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-12-04T22:35:09.854Z",
+            "amount": 10,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-12-04T22:08:12.136Z",
+            "amount": 6,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-04T22:07:15.375Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-02T21:20:29.665Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-02T21:19:59.561Z",
+            "amount": 9,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-02T21:19:11.098Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-02T21:15:09.753Z",
+            "amount": 55,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 55
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00564673
+            }
+        },
+        {
+            "createdAt": "2019-12-02T21:13:56.222Z",
+            "amount": 12,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-12-02T21:11:47.648Z",
+            "amount": 55,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-11-27T16:22:53.910Z",
+            "amount": 0.000042,
+            "currency": "BTC",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-11-26T22:18:56.580Z",
+            "amount": 0.000021,
+            "currency": "BTC",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-11-04T20:20:05.348Z",
+            "amount": 0.53,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 0.53
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 6519
+            }
+        },
+        {
+            "createdAt": "2019-10-30T01:15:35.333Z",
+            "amount": 130,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 130
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.01048388
+            }
+        },
+        {
+            "createdAt": "2019-10-16T19:51:05.266Z",
+            "amount": 23,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 23
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00217392
+            }
+        },
+        {
+            "createdAt": "2019-10-15T14:17:47.287Z",
+            "amount": 0.00007072,
+            "currency": "BTC",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-10-14T11:31:26.699Z",
+            "amount": 0.0000412,
+            "currency": "BTC",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-10-11T20:21:37.476Z",
+            "amount": 0.00004712,
+            "currency": "BTC",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-10-11T20:19:26.674Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-10-11T20:16:41.752Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-10-04T19:20:49.483Z",
+            "amount": 2,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 2
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00018345
+            }
+        },
+        {
+            "createdAt": "2019-10-01T14:06:55.777Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00044453
+            }
+        },
+        {
+            "createdAt": "2019-09-27T22:28:19.087Z",
+            "amount": 0.01,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-09-27T19:55:29.847Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 50
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.0046357
+            }
+        },
+        {
+            "createdAt": "2019-09-25T17:29:01.036Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-09-25T17:26:56.063Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-09-18T21:42:50.966Z",
+            "amount": 23,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 23
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00169174
+            }
+        },
+        {
+            "createdAt": "2019-09-16T21:33:30.193Z",
+            "amount": 0.08,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 0.08
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 1076.55
+            }
+        },
+        {
+            "createdAt": "2019-09-16T21:14:58.899Z",
+            "amount": 32,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 32
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00231946
+            }
+        },
+        {
+            "createdAt": "2019-09-16T20:47:58.137Z",
+            "amount": 56,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-09-16T20:47:31.470Z",
+            "amount": 55,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 55
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00404799
+            }
+        },
+        {
+            "createdAt": "2019-09-12T15:35:09.343Z",
+            "amount": 0.002,
+            "currency": "BTC",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-08-21T20:30:25.851Z",
+            "amount": 1,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-08-21T20:30:00.257Z",
+            "amount": 22,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-08-21T20:29:48.424Z",
+            "amount": 55,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 55
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00401834
+            }
+        },
+        {
+            "createdAt": "2019-08-21T19:44:53.035Z",
+            "amount": 31.023712322652905,
+            "currency": "ETH",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-08-20T20:20:21.558Z",
+            "amount": 22,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-08-20T15:55:31.491Z",
+            "amount": 0.12345678901234568,
+            "currency": "ETH",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-08-20T15:48:57.047Z",
+            "amount": 0.05,
+            "currency": "ETH",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-08-19T19:06:12.895Z",
+            "amount": 55,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-08-19T19:05:26.344Z",
+            "amount": 999,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-08-19T18:58:50.369Z",
+            "amount": 0.02,
+            "currency": "BTC",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-08-16T03:12:12.049Z",
+            "amount": 6,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-08-16T03:11:29.376Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-08-16T03:11:01.896Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00035789
+            }
+        },
+        {
+            "createdAt": "2019-08-16T03:09:21.175Z",
+            "amount": 0.01,
+            "currency": "CAD",
+            "type": "peer",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-08-13T21:56:38.488Z",
+            "amount": 1,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 1
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 14164.81
+            }
+        },
+        {
+            "createdAt": "2019-08-13T21:56:04.282Z",
+            "amount": 1000,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 1000
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.06884772
+            }
+        },
+        {
+            "createdAt": "2019-08-12T20:59:44.301Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "credit",
+            "from": {
+            }
+        },
+        {
+            "createdAt": "2019-08-08T18:58:16.677Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-08-08T18:57:29.979Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00032124
+            }
+        },
+        {
+            "createdAt": "2019-08-07T18:52:42.822Z",
+            "amount": 0.005,
+            "currency": "BTC",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-08-07T18:31:55.704Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 100
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00639598
+            }
+        },
+        {
+            "createdAt": "2019-08-01T13:52:31.685Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 100
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00747409
+            }
+        },
+        {
+            "createdAt": "2019-07-31T18:10:04.691Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00037555
+            }
+        },
+        {
+            "createdAt": "2019-07-23T21:51:36.345Z",
+            "amount": 52,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 52
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00387311
+            }
+        },
+        {
+            "createdAt": "2019-07-17T20:03:31.823Z",
+            "amount": 33,
+            "currency": "CAD",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-07-15T18:23:39.942Z",
+            "amount": 789,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 789
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.05546037
+            }
+        },
+        {
+            "createdAt": "2019-07-15T18:21:45.374Z",
+            "amount": 68,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 68
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.0047854
+            }
+        },
+        {
+            "createdAt": "2019-07-15T18:21:31.913Z",
+            "amount": 66,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 66
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00468049
+            }
+        },
+        {
+            "createdAt": "2019-07-15T18:19:08.313Z",
+            "amount": 44,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 44
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00315745
+            }
+        },
+        {
+            "createdAt": "2019-07-15T18:10:25.484Z",
+            "amount": 34,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 34
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00247038
+            }
+        },
+        {
+            "createdAt": "2019-07-15T18:08:36.029Z",
+            "amount": 35,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 35
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00254169
+            }
+        },
+        {
+            "createdAt": "2019-07-15T18:07:45.394Z",
+            "amount": 20,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 20
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00145239
+            }
+        },
+        {
+            "createdAt": "2019-07-15T15:15:29.612Z",
+            "amount": 1600,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 1600
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.11506095
+            }
+        },
+        {
+            "createdAt": "2019-07-15T15:15:07.404Z",
+            "amount": 0.2,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 0.2
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 2712.17
+            }
+        },
+        {
+            "createdAt": "2019-07-15T15:13:11.254Z",
+            "amount": 0.4,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 0.4
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 5423.66
+            }
+        },
+        {
+            "createdAt": "2019-07-15T15:12:05.241Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 50
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.0035972
+            }
+        },
+        {
+            "createdAt": "2019-07-03T18:52:46.062Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 100
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00686565
+            }
+        },
+        {
+            "createdAt": "2019-07-03T18:52:31.088Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 100
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00684229
+            }
+        },
+        {
+            "createdAt": "2019-07-03T18:52:08.123Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 100
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00684229
+            }
+        },
+        {
+            "createdAt": "2019-07-03T18:36:12.216Z",
+            "amount": 0.005,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 0.005
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 70.38
+            }
+        },
+        {
+            "createdAt": "2019-07-03T18:35:32.210Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00034637
+            }
+        },
+        {
+            "createdAt": "2019-07-03T16:16:31.314Z",
+            "amount": 0.1,
+            "currency": "BTC",
+            "type": "external account",
+            "direction": "debit",
+            "to": {
+            }
+        },
+        {
+            "createdAt": "2019-07-03T11:34:20.562Z",
+            "amount": 0.01,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 0.01
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 143.23
+            }
+        },
+        {
+            "createdAt": "2019-07-03T11:34:00.617Z",
+            "amount": 55,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 55
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.003742
+            }
+        },
+        {
+            "createdAt": "2019-06-28T17:17:46.682Z",
+            "amount": 1,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 1
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 15032.84
+            }
+        },
+        {
+            "createdAt": "2019-06-28T17:17:06.859Z",
+            "amount": 1,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 1
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 15032.84
+            }
+        },
+        {
+            "createdAt": "2019-06-28T14:43:59.743Z",
+            "amount": 0.16,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 0.16
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 2400.57
+            }
+        },
+        {
+            "createdAt": "2019-06-28T14:43:43.592Z",
+            "amount": 0.15,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 0.15
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 2250.54
+            }
+        },
+        {
+            "createdAt": "2019-06-28T14:43:32.402Z",
+            "amount": 0.14,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 0.14
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 2100.5
+            }
+        },
+        {
+            "createdAt": "2019-06-28T14:42:59.597Z",
+            "amount": 0.13,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 0.13
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 1950.47
+            }
+        },
+        {
+            "createdAt": "2019-06-28T14:42:12.694Z",
+            "amount": 0.23,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 0.23
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 3450.83
+            }
+        },
+        {
+            "createdAt": "2019-06-28T14:31:02.503Z",
+            "amount": 0.1,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 0.1
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 1502
+            }
+        },
+        {
+            "createdAt": "2019-06-28T14:30:45.679Z",
+            "amount": 0.1,
+            "currency": "BTC",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "BTC",
+                "amount": 0.1
+            },
+            "to": {
+                "currency": "CAD",
+                "amount": 1501.98
+            }
+        },
+        {
+            "createdAt": "2019-06-28T14:29:50.250Z",
+            "amount": 1000,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 1000
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.06488678
+            }
+        },
+        {
+            "createdAt": "2019-06-28T14:29:40.304Z",
+            "amount": 1000,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 1000
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.06488678
+            }
+        },
+        {
+            "createdAt": "2019-06-28T14:29:27.737Z",
+            "amount": 1000,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 1000
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.06488678
+            }
+        },
+        {
+            "createdAt": "2019-06-28T14:29:16.546Z",
+            "amount": 1000,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 1000
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.06488678
+            }
+        },
+        {
+            "createdAt": "2019-06-28T14:28:54.933Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 50
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00324406
+            }
+        },
+        {
+            "createdAt": "2019-06-28T14:14:10.439Z",
+            "amount": 100,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 100
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00647935
+            }
+        },
+        {
+            "createdAt": "2019-06-26T16:15:00.933Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 50
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00297159
+            }
+        },
+        {
+            "createdAt": "2019-06-26T16:14:48.826Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 50
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00297159
+            }
+        },
+        {
+            "createdAt": "2019-06-26T16:14:40.896Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 50
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00297159
+            }
+        },
+        {
+            "createdAt": "2019-06-26T16:14:32.784Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 50
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00297159
+            }
+        },
+        {
+            "createdAt": "2019-06-26T16:14:20.636Z",
+            "amount": 50,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 50
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00297159
+            }
+        },
+        {
+            "createdAt": "2019-06-26T16:13:37.668Z",
+            "amount": 5,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 5
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00029778
+            }
+        },
+        {
+            "createdAt": "2019-06-10T15:50:22.361Z",
+            "amount": 9,
+            "currency": "CAD",
+            "type": "conversion",
+            "direction": null,
+            "from": {
+                "currency": "CAD",
+                "amount": 9
+            },
+            "to": {
+                "currency": "BTC",
+                "amount": 0.00084429
+            }
+        }
+]
