@@ -1,1 +1,1 @@
-web: gunicorn networth.wsgi --log-file -
+web: gunicorn NetWorth.wsgi --log-file -
